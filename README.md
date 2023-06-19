@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on [Shopping Site](https://github.com/karananeja/fe-shopping-site)
 
-- 👨‍💻 All of my projects are available at [rt-resume.web.app](rt-resume.web.app)
+- 👨‍💻 All of my projects are available at [rt-resume.web.app](https://rt-resume.web.app)
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **karananeja.r@gmail.com**
 
-- 📄 Know about my experiences [rt-resume.web.app](rt-resume.web.app)
+- 📄 Know about my experiences [rt-resume.web.app](https://rt-resume.web.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
