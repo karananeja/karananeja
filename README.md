@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/karananeja07" target="blank"><img src="https://img.shields.io/twitter/follow/karananeja07?logo=twitter&style=for-the-badge" alt="karananeja07" /></a> </p>
 
-- 🔭 I’m currently working on [Trinity](https://dev.konfiger.io)
+- 🔭 I’m currently working on [Shopping Site](https://rt-shopping-site.netlify.app)
 
-- 🌱 I’m currently learning **react, Node, express**
+- 🌱 I’m currently learning **react, node, express**
 
 - 👯 I’m looking to collaborate on [Shopping Site](https://github.com/karananeja/fe-shopping-site)
 
