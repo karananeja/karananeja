@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karananeja&label=Profile%20views&color=0e75b6&style=flat" alt="karananeja" /> </p>
 
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcom+to+my+github+valley;Front-end+developer;Web+Developer;Adventurer;Problem+Solver;Traveller;&color=teal&center=true" />
+</div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karananeja" alt="karananeja" /></a> </p>
 
 <img align="right" width="400" src ="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
